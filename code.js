@@ -2,7 +2,7 @@ const btn = document.querySelector('button');
 const div = document.querySelector('div');
 
 const names = ['Ola', 'Denis', 'Kristina', 'Ivan']
-// "Math.random()" - da nam znaczenia od o do n.999
+// "Math.random()" - da nam znaczenia od 0 do n.999
 // "Math.floor()" - zaokrągla nam znaczenia
 
 
