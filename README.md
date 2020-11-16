@@ -1,1 +1,1 @@
-# etap3-project7
+# etap3-project7 - Name Generator
