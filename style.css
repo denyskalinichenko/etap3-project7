@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    display: block;
+    margin: 25px auto;
+    padding: 15px;
+    background-color:black;
+    color: white;
+    font-size: 18px;
+    transition: 0.2s;
+    cursor: pointer;
+}
+button:hover{
+    background-color:white;
+    color:black;
+}
+
+div{
+    margin: 10px;
+    font-size: 26px;
+    text-align: center;
+}
